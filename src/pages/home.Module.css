@@ -1,0 +1,30 @@
+.main{
+  margin-left: 20px;
+}
+
+.main h1{
+  font-weight: 500;
+  margin: 0;
+  color: rgb(36, 36, 36);
+  cursor: default;
+}
+
+.list{
+  padding: 0px;
+  margin-top: 0;
+  margin-left: 15px;
+}
+
+.list li{
+  list-style: none;
+  padding: 0px;
+}
+
+.link{
+  text-decoration: none;
+  color: rgb(36, 36, 36);
+}
+
+.link:hover{
+  color: rgba(105, 104, 104, 0.788);
+}

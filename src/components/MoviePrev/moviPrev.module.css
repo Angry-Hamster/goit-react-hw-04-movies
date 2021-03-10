@@ -1,0 +1,39 @@
+.main {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.img_box {
+  margin-left: 10px;
+  display: inline;
+}
+
+.content_box {
+  display: flex;
+  flex-direction: column;
+
+  margin-left: 5px;
+}
+
+.content_box h1 {
+  margin: 0;
+  font-size: larger;
+}
+
+.content_box p {
+  margin: 0;
+  font-size: larger;
+}
+
+.content_box ul {
+  margin: 0;
+  font-size: larger;
+  padding: 0;
+}
+
+.content_box ul li {
+  list-style: none;
+  margin-left: 15px;
+}

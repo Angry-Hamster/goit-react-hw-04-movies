@@ -1,0 +1,31 @@
+.form {
+  margin: 10px;
+}
+
+.form input {
+  width: 250px;
+  height: 20px;
+}
+
+.form button {
+  margin-left: 10px;
+}
+
+.list{
+  padding: 0;
+  margin-left: 20px;
+}
+
+.list li{
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+  color: rgb(65, 65, 65);
+}
+
+.link:hover {
+  text-decoration: none;
+  color: rgb(110, 109, 109);
+}
